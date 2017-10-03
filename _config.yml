@@ -1,8 +1,4 @@
 theme: jekyll-theme-slate
 title: Anywhere Reporting Java SDK 
-<<<<<<< HEAD
 description: Powerful API for monitoring your system.
-=======
-description: Java SDK provides convenient access to the HCP Anywhere Reporting API.
->>>>>>> 58c8e40558501ddac36111e5cb4bb9aa778ab5ed
 show_downloads: "true"

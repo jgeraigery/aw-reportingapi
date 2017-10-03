@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
-title: HCP Anywhere Reporting API
+title: Anywhere Reporting Java SDK 
+description: Java SDK provides convenient access to the HCP Anywhere Reporting API.
 show_downloads: "true"

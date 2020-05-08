@@ -12,9 +12,9 @@ The HCP Anywhere Reporting API is an API for administrators to generate reports 
 
 # Documentation 
 
-Javadoc is available [via github](http://hitachidatasystems.github.io/aw-reportingapi/javadoc/).
+Javadoc is available [via github](http://hitachi-data-systems.github.io/aw-reportingapi/javadoc/).
 
-Reporting API help documentation is available from the HCP Anywhere Management Console or [via github](http://hitachidatasystems.github.io/aw-reportingapi/reporting-api-doc)
+Reporting API help documentation is available from the HCP Anywhere Management Console or [via github](http://hitachi-data-systems.github.io/aw-reportingapi/reporting-api-doc)
 
 ## Example                                                                                          
                                             
@@ -36,14 +36,14 @@ The SDK is availble at [Maven Central](http://search.maven.org/#search%7Cga%7C1%
 <dependency>
   <groupId>com.hds.hcpaw</groupId>
   <artifactId>anywhere-reporting-sdk</artifactId>
-  <version>4.0.0.12</version>
+  <version>4.3.2.33</version>
 </dependency>
 ```
 
 ### Gradle
 ```
 dependencies {
-    compile 'com.hds.hcpaw:anywhere-reporting-sdk:4.0.0.12'
+    compile 'com.hds.hcpaw:anywhere-reporting-sdk:4.3.2.33'
 }
 ```
 
@@ -53,4 +53,4 @@ Reach out to Hitachi Vantara at our community portal http://community.hitachivan
 
 # Copyright and License
 
-Code and documentation copyright by Hitachi Vantara, 2018.  Release under [the Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
+Code and documentation copyright by Hitachi Vantara LLC 2020. All Rights Reserved.  Release under [the Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).

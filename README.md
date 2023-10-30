@@ -36,14 +36,14 @@ The SDK is availble at [Maven Central](http://search.maven.org/#search%7Cga%7C1%
 <dependency>
   <groupId>com.hds.hcpaw</groupId>
   <artifactId>anywhere-reporting-sdk</artifactId>
-  <version>4.4.1.65</version>
+  <version>4.6.0.38</version>
 </dependency>
 ```
 
 ### Gradle
 ```
 dependencies {
-    compile 'com.hds.hcpaw:anywhere-reporting-sdk:4.4.1.65'
+    compile 'com.hds.hcpaw:anywhere-reporting-sdk:4.6.0.38'
 }
 ```
 
